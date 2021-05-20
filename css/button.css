@@ -1,0 +1,14 @@
+button {
+  display: block;
+  margin: 0px auto;
+  width: 420px;
+  height: 55px;
+  border: none;
+  border-radius: 0;
+  background-color: #7c5e99;
+  font-family: inherit;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+  box-shadow: 4px 4px 0px #000000;
+}
