@@ -11,4 +11,9 @@ button {
   font-size: 20px;
   cursor: pointer;
   box-shadow: 4px 4px 0px #000000;
+  transition: transform 200ms ease-in-out;
+}
+
+button:hover {
+  transform: scale(1.05);
 }
