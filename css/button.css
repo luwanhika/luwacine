@@ -5,12 +5,12 @@ button {
   height: 55px;
   border: none;
   border-radius: 0;
-  background-color: #7c5e99;
+  background-color: var(--color-second);
   font-family: inherit;
-  color: #fff;
+  color: var(--color-third);
   font-size: 20px;
   cursor: pointer;
-  box-shadow: 4px 4px 0px #000000;
+  box-shadow: 4px 4px 0px var(--color-black-first);
   transition: transform 200ms ease-in-out;
 }
 

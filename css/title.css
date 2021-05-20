@@ -1,6 +1,6 @@
 h1 {
-  color: #F25A70;
-  text-shadow: 4px 4px 0px #000000;
+  color: var(--color-first);
+  text-shadow: 4px 4px 0px var(--color-black-first);
   text-align: center;
   font-size: 50px;
 }
