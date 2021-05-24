@@ -3,5 +3,4 @@
   height: 265px;
   border: 2px solid var(--color-first);
   box-shadow: 4px 4px 0px var(--color-black-first);
-  cursor: pointer;
 }
